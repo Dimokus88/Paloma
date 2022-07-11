@@ -42,7 +42,7 @@ profiles:
         cpu:
           units: 2.0
         memory:
-          size: 4Gi
+          size: 3Gi
         storage:
           size: 40Gi
         
